@@ -1,7 +1,10 @@
 # autoroute_navbar
+<<<<<<< HEAD
 
 Fluter Navigation bar and routing using auto_route package.
 
+=======
+>>>>>>> 1ac5442b4ad837f027180ea38a11395b69047369
 
 
 ## Getting Started
