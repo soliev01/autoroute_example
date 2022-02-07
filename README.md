@@ -1,4 +1,4 @@
-# autoroute_example
+# autoroute_navbar
 
 A new Flutter project.
 
