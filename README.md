@@ -1,6 +1,8 @@
-# autoroute_example
+# autoroute_navbar
 
-A new Flutter project.
+Fluter Navigation bar and routing using auto_route package.
+
+
 
 ## Getting Started
 
